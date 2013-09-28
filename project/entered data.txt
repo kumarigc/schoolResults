@@ -1,0 +1,152 @@
+{
+        schoolName: "St. Aaron College",
+	subjects: [
+		{
+      subject: "numeracy",
+      latestY3: 413.55,
+      latestY5: 494.25,
+      latestY7: 0.0,
+      latestY9: 0.0,
+      rawGainY3Y5: 61.4917,
+      factoredGainY3Y5: 69.81,
+      glgY3Y5: 113.52757826,
+      latestGainInGainY3Y5: -7.0
+		},
+		{
+      subject: "reading",
+      latestY3: 411.66,
+      latestY5: 532.52,
+      latestY7: 0.0,
+      latestY9: 0.0,
+      rawGainY3Y5: 74.84,
+      factoredGainY3Y5: 62.05,
+      glgY3Y5: 82.91,
+      latestGainInGainY3Y5: 17.0},
+		
+		{
+      subject: "spelling",
+      latestY3: 412.48,
+      latestY5: 515.73,
+      latestY7: 0.0,
+      latestY9: 0.0,
+      rawGainY3Y5: 84.38,
+      factoredGainY3Y5: 72.16,
+      glgY3Y5: 85.52,
+      latestGainInGainY3Y5: 31.0}
+				]
+}
+----------------------------------------------------------------------------------
+
+{
+        schoolName: "St. Alan College",
+		subjects: [
+		{
+     "subject": "numeracy",
+      "latestY3": 380.5125,
+      "latestY5": 469.9,
+      "latestY7": 510.85,
+      "latestY9": 558.7125,
+      "rawGainY3Y5": 84.6607,
+      "factoredGainY3Y5": 90.76,
+      "glgY3Y5": 107.20438726,
+      "latestGainInGainY3Y5": 0.0
+		},
+		{
+      subject: "reading",
+      latestY3: 405.39,
+      latestY5: 473.95,
+      latestY7: 509.05,
+      latestY9: 527.16,
+      rawGainY3Y5: 65.82,
+      factoredGainY3Y5: 79.83,
+      glgY3Y5: 121.29,
+      latestGainInGainY3Y5: -10.0},
+		
+		{
+      subject: "spelling",
+      latestY3: 410.60,
+      latestY5: 479.56,
+      latestY7: 534.41,
+      latestY9: 575.02,
+      rawGainY3Y5: 62.06,
+      factoredGainY3Y5: 77.39,
+      glgY3Y5: 124.71,
+      latestGainInGainY3Y5: 0.0}
+				]
+}
+
+{
+        schoolName: "St. Ana Paloma College",
+		subjects: [
+		{
+       "subject": "numeracy",
+      "latestY3": 318.775,
+      "latestY5": 423.25,
+      "latestY7": 482.3,
+      "latestY9": 509.725,
+      "rawGainY3Y5": 115.55,
+      "factoredGainY3Y5": 111.57,
+      "glgY3Y5": 96.55560363,
+      "latestGainInGainY3Y5": 0.0
+		},
+		{
+      subject: "reading",
+      latestY3: 363.38,
+      latestY5: 431.55,
+      latestY7: 496.93,
+      latestY9: 510.20,
+      rawGainY3Y5: 64.81,
+      factoredGainY3Y5: 97.54,
+      glgY3Y5: 150.50,
+      latestGainInGainY3Y5: -13.0},
+		
+		{
+      subject: "spelling",
+      latestY3: 365.05,
+      latestY5: 448.18,
+      latestY7: 488.25,
+      latestY9: 511.55,
+      rawGainY3Y5: 75.94,
+      factoredGainY3Y5: 96.91,
+      glgY3Y5: 127.62,
+      latestGainInGainY3Y5: 0.0}
+				]
+}
+
+{
+        schoolName: "St. Ciara College",
+		subjects: [
+		{
+       "subject": "numeracy",
+      "latestY3": 394.0625,
+      "latestY5": 538.3,
+      "latestY7": 0.0,
+      "latestY9": 0.0,
+      "rawGainY3Y5": 63.4167,
+      "factoredGainY3Y5": 57.6,
+      "glgY3Y5": 90.82785808,
+      "latestGainInGainY3Y5": -4.0
+		},
+		{
+      subject: "reading",
+      latestY3: 439.20,
+      latestY5: 479.77,
+      latestY7: 0.0,
+      latestY9: 0.0,
+      rawGainY3Y5: 39.03,
+      factoredGainY3Y5: 54.88,
+      glgY3Y5: 140.60,
+      latestGainInGainY3Y5: -59.0},
+		
+		{
+      subject: "spelling",
+      latestY3: 433.41,
+      latestY5: 540.92,
+      latestY7: 0,
+      latestY9: 0,
+      rawGainY3Y5: 97.11,
+      factoredGainY3Y5: 66.41,
+      glgY3Y5: 68.39,
+      latestGainInGainY3Y5: 6.0}
+				]
+}
